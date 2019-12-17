@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: ccb68a497bbd5c84a9c158a40f561935
+timeCreated: 1567649619
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone003
+    100002: Bone006
+    100004: Bone008
+    100006: Box002
+    100008: Box003
+    100010: Box005
+    100012: Box005 1
+    100014: Box006
+    100016: Box007
+    100018: Box019
+    100020: Box019_MeshPart0
+    100022: Box019_MeshPart1
+    100024: Computer_Screen
+    100026: Cylinder002
+    100028: 'di wen la shen zhuang zhi '
+    100030: di wen la shen zhuang zhi _MeshPart0
+    100032: di wen la shen zhuang zhi _MeshPart1
+    100034: di wen la shen zhuang zhi _MeshPart2
+    100036: di wen la shen zhuang zhi _MeshPart3
+    100038: dian yuan
+    100040: fan hui
+    100042: Lashen_Computer
+    100044: Lashen_Keyboard
+    100046: Lashen_Mainframe
+    100048: Lashen_Mouse
+    100050: Lashen_shiyanshi
+    100052: Lashen_Table
+    100054: Lashen_tangang_Animation
+    100056: Lashen_Wire
+    100058: Lashen_Word_M C
+    100060: Lashen_yin shen ji
+    100062: Lashen_Zhuti
+    100064: Lashen_Zhuti_MeshPart0
+    100066: Lashen_Zhuti_MeshPart1
+    100068: Lashen_Zhuti_MeshPart2
+    100070: Lashen_Zhuti_MeshPart3
+    100072: Lashen_Zhuti_MeshPart4
+    100074: Lashen_Zhuti_MeshPart5
+    100076: Lashen_Zhuti_MeshPart6
+    100078: Lashen_zhutie_Animation
+    100080: pingmu_1
+    100082: pingmu_2
+    100084: pingmu_3
+    100086: qi dong
+    100088: shi pian jia
+    100090: shi pian jia_MeshPart0
+    100092: shi pian jia_MeshPart1
+    100094: shi pian jia_MeshPart2
+    100096: shi pian jia_MeshPart3
+    100098: shi pian jia_MeshPart4
+    100100: //RootNode
+    100102: tan gang_Bone_down
+    100104: tan gang_Bone_top
+    100106: ting zhi
+    100108: Torus004
+    100110: Torus005
+    100112: youbiaokachi_wanzheng
+    100114: youbiaokachi_wanzheng_MeshPart0
+    100116: youbiaokachi_wanzheng_MeshPart1
+    100118: youbiaokachi_wanzheng_MeshPart2
+    100120: zhichi_wanzheng
+    100122: zhu tie_Bone_down
+    100124: zhu tie_Bone_top
+    400000: Bone003
+    400002: Bone006
+    400004: Bone008
+    400006: Box002
+    400008: Box003
+    400010: Box005
+    400012: Box005 1
+    400014: Box006
+    400016: Box007
+    400018: Box019
+    400020: Box019_MeshPart0
+    400022: Box019_MeshPart1
+    400024: Computer_Screen
+    400026: Cylinder002
+    400028: 'di wen la shen zhuang zhi '
+    400030: di wen la shen zhuang zhi _MeshPart0
+    400032: di wen la shen zhuang zhi _MeshPart1
+    400034: di wen la shen zhuang zhi _MeshPart2
+    400036: di wen la shen zhuang zhi _MeshPart3
+    400038: dian yuan
+    400040: fan hui
+    400042: Lashen_Computer
+    400044: Lashen_Keyboard
+    400046: Lashen_Mainframe
+    400048: Lashen_Mouse
+    400050: Lashen_shiyanshi
+    400052: Lashen_Table
+    400054: Lashen_tangang_Animation
+    400056: Lashen_Wire
+    400058: Lashen_Word_M C
+    400060: Lashen_yin shen ji
+    400062: Lashen_Zhuti
+    400064: Lashen_Zhuti_MeshPart0
+    400066: Lashen_Zhuti_MeshPart1
+    400068: Lashen_Zhuti_MeshPart2
+    400070: Lashen_Zhuti_MeshPart3
+    400072: Lashen_Zhuti_MeshPart4
+    400074: Lashen_Zhuti_MeshPart5
+    400076: Lashen_Zhuti_MeshPart6
+    400078: Lashen_zhutie_Animation
+    400080: pingmu_1
+    400082: pingmu_2
+    400084: pingmu_3
+    400086: qi dong
+    400088: shi pian jia
+    400090: shi pian jia_MeshPart0
+    400092: shi pian jia_MeshPart1
+    400094: shi pian jia_MeshPart2
+    400096: shi pian jia_MeshPart3
+    400098: shi pian jia_MeshPart4
+    400100: //RootNode
+    400102: tan gang_Bone_down
+    400104: tan gang_Bone_top
+    400106: ting zhi
+    400108: Torus004
+    400110: Torus005
+    400112: youbiaokachi_wanzheng
+    400114: youbiaokachi_wanzheng_MeshPart0
+    400116: youbiaokachi_wanzheng_MeshPart1
+    400118: youbiaokachi_wanzheng_MeshPart2
+    400120: zhichi_wanzheng
+    400122: zhu tie_Bone_down
+    400124: zhu tie_Bone_top
+    2300000: Box002
+    2300002: Box003
+    2300004: Box005
+    2300006: Box005 1
+    2300008: Box006
+    2300010: Box007
+    2300012: Box019_MeshPart0
+    2300014: Box019_MeshPart1
+    2300016: Computer_Screen
+    2300018: Cylinder002
+    2300020: di wen la shen zhuang zhi _MeshPart0
+    2300022: di wen la shen zhuang zhi _MeshPart1
+    2300024: di wen la shen zhuang zhi _MeshPart2
+    2300026: di wen la shen zhuang zhi _MeshPart3
+    2300028: dian yuan
+    2300030: fan hui
+    2300032: Lashen_Computer
+    2300034: Lashen_Keyboard
+    2300036: Lashen_Mainframe
+    2300038: Lashen_Mouse
+    2300040: Lashen_Table
+    2300042: Lashen_Wire
+    2300044: Lashen_Word_M C
+    2300046: Lashen_yin shen ji
+    2300048: Lashen_Zhuti_MeshPart0
+    2300050: Lashen_Zhuti_MeshPart1
+    2300052: Lashen_Zhuti_MeshPart2
+    2300054: Lashen_Zhuti_MeshPart3
+    2300056: Lashen_Zhuti_MeshPart4
+    2300058: Lashen_Zhuti_MeshPart5
+    2300060: Lashen_Zhuti_MeshPart6
+    2300062: pingmu_1
+    2300064: pingmu_2
+    2300066: pingmu_3
+    2300068: qi dong
+    2300070: shi pian jia_MeshPart0
+    2300072: shi pian jia_MeshPart1
+    2300074: shi pian jia_MeshPart2
+    2300076: shi pian jia_MeshPart3
+    2300078: shi pian jia_MeshPart4
+    2300080: ting zhi
+    2300082: Torus004
+    2300084: Torus005
+    2300086: zhichi_wanzheng
+    3300000: Box002
+    3300002: Box003
+    3300004: Box005
+    3300006: Box005 1
+    3300008: Box006
+    3300010: Box007
+    3300012: Box019_MeshPart0
+    3300014: Box019_MeshPart1
+    3300016: Computer_Screen
+    3300018: Cylinder002
+    3300020: di wen la shen zhuang zhi _MeshPart0
+    3300022: di wen la shen zhuang zhi _MeshPart1
+    3300024: di wen la shen zhuang zhi _MeshPart2
+    3300026: di wen la shen zhuang zhi _MeshPart3
+    3300028: dian yuan
+    3300030: fan hui
+    3300032: Lashen_Computer
+    3300034: Lashen_Keyboard
+    3300036: Lashen_Mainframe
+    3300038: Lashen_Mouse
+    3300040: Lashen_Table
+    3300042: Lashen_Wire
+    3300044: Lashen_Word_M C
+    3300046: Lashen_yin shen ji
+    3300048: Lashen_Zhuti_MeshPart0
+    3300050: Lashen_Zhuti_MeshPart1
+    3300052: Lashen_Zhuti_MeshPart2
+    3300054: Lashen_Zhuti_MeshPart3
+    3300056: Lashen_Zhuti_MeshPart4
+    3300058: Lashen_Zhuti_MeshPart5
+    3300060: Lashen_Zhuti_MeshPart6
+    3300062: pingmu_1
+    3300064: pingmu_2
+    3300066: pingmu_3
+    3300068: qi dong
+    3300070: shi pian jia_MeshPart0
+    3300072: shi pian jia_MeshPart1
+    3300074: shi pian jia_MeshPart2
+    3300076: shi pian jia_MeshPart3
+    3300078: shi pian jia_MeshPart4
+    3300080: ting zhi
+    3300082: Torus004
+    3300084: Torus005
+    3300086: zhichi_wanzheng
+    4300000: Lashen_Table
+    4300002: Lashen_Computer
+    4300004: Lashen_Keyboard
+    4300006: Lashen_Mainframe
+    4300008: Lashen_Mouse
+    4300010: Computer_Screen
+    4300012: Lashen_Zhuti_MeshPart0
+    4300014: Lashen_Zhuti_MeshPart1
+    4300016: Lashen_Zhuti_MeshPart2
+    4300018: Lashen_Zhuti_MeshPart3
+    4300020: Lashen_Zhuti_MeshPart4
+    4300022: Lashen_Zhuti_MeshPart5
+    4300024: Lashen_Zhuti_MeshPart6
+    4300026: Box005
+    4300028: Box019_MeshPart0
+    4300030: Box019_MeshPart1
+    4300032: youbiaokachi_wanzheng_MeshPart0
+    4300034: youbiaokachi_wanzheng_MeshPart1
+    4300036: youbiaokachi_wanzheng_MeshPart2
+    4300038: zhichi_wanzheng
+    4300040: di wen la shen zhuang zhi _MeshPart0
+    4300042: di wen la shen zhuang zhi _MeshPart1
+    4300044: di wen la shen zhuang zhi _MeshPart2
+    4300046: di wen la shen zhuang zhi _MeshPart3
+    4300048: qi dong
+    4300050: ting zhi
+    4300052: fan hui
+    4300054: pingmu_1
+    4300056: pingmu_2
+    4300058: pingmu_3
+    4300060: dian yuan
+    4300062: shi pian jia_MeshPart0
+    4300064: shi pian jia_MeshPart1
+    4300066: shi pian jia_MeshPart2
+    4300068: shi pian jia_MeshPart3
+    4300070: shi pian jia_MeshPart4
+    4300072: Lashen_yin shen ji
+    4300074: Box005
+    4300076: Lashen_Word_M C
+    4300078: Box002
+    4300080: Box007
+    4300082: Torus005
+    4300084: Box003
+    4300086: Box006
+    4300088: Torus004
+    4300090: Cylinder002
+    4300092: Lashen_Wire
+    4300094: Lashen_zhutie_Animation
+    4300096: Lashen_tangang_Animation
+    7400000: Take 001
+    7400002: strerch1
+    7400004: strerch1Pause
+    7400006: strerch2
+    9500000: //RootNode
+    13700000: Lashen_tangang_Animation
+    13700002: Lashen_zhutie_Animation
+    13700004: youbiaokachi_wanzheng_MeshPart0
+    13700006: youbiaokachi_wanzheng_MeshPart1
+    13700008: youbiaokachi_wanzheng_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: strerch1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 355
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: FinishStrerch1
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: strerch1Pause
+      takeName: Take 001
+      firstFrame: 355
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: strerch2
+      takeName: Take 001
+      firstFrame: 370
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

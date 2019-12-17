@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: ddae107c533cfd44aa3d46594adf2c2e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: FD_Lamp shade001
+    100002: FD_Lamp shade002
+    100004: FD_Lamp shade003
+    100006: FD_Lamp shade004
+    100008: FD_Lamp shade005
+    100010: FD_Lamp shade006
+    100012: FD_Lamp shade007
+    100014: FD_Lamp shade008
+    100016: FD_Lamp shade009
+    100018: FD_Lamp shade010
+    100020: FD_Lamp shade011
+    100022: FD_Lamp shade012
+    100024: FD_Lamp tube001
+    100026: FD_Lamp tube002
+    100028: FD_Lamp tube003
+    100030: FD_Lamp tube004
+    100032: FD_Lamp tube005
+    100034: FD_Lamp tube006
+    100036: FD_Lamp tube007
+    100038: FD_Lamp tube008
+    100040: FD_Lamp tube009
+    100042: FD_Lamp tube010
+    100044: FD_Lamp tube011
+    100046: FD_Lamp tube012
+    100048: //RootNode
+    100050: Wall_Top
+    400000: FD_Lamp shade001
+    400002: FD_Lamp shade002
+    400004: FD_Lamp shade003
+    400006: FD_Lamp shade004
+    400008: FD_Lamp shade005
+    400010: FD_Lamp shade006
+    400012: FD_Lamp shade007
+    400014: FD_Lamp shade008
+    400016: FD_Lamp shade009
+    400018: FD_Lamp shade010
+    400020: FD_Lamp shade011
+    400022: FD_Lamp shade012
+    400024: FD_Lamp tube001
+    400026: FD_Lamp tube002
+    400028: FD_Lamp tube003
+    400030: FD_Lamp tube004
+    400032: FD_Lamp tube005
+    400034: FD_Lamp tube006
+    400036: FD_Lamp tube007
+    400038: FD_Lamp tube008
+    400040: FD_Lamp tube009
+    400042: FD_Lamp tube010
+    400044: FD_Lamp tube011
+    400046: FD_Lamp tube012
+    400048: //RootNode
+    400050: Wall_Top
+    2100000: wall
+    2100002: Top_net
+    2100004: deng
+    2100006: 'Material #2141370662'
+    2100008: deng guan
+    2300000: FD_Lamp shade001
+    2300002: FD_Lamp shade002
+    2300004: FD_Lamp shade003
+    2300006: FD_Lamp shade004
+    2300008: FD_Lamp shade005
+    2300010: FD_Lamp shade006
+    2300012: FD_Lamp shade007
+    2300014: FD_Lamp shade008
+    2300016: FD_Lamp shade009
+    2300018: FD_Lamp shade010
+    2300020: FD_Lamp shade011
+    2300022: FD_Lamp shade012
+    2300024: FD_Lamp tube001
+    2300026: FD_Lamp tube002
+    2300028: FD_Lamp tube003
+    2300030: FD_Lamp tube004
+    2300032: FD_Lamp tube005
+    2300034: FD_Lamp tube006
+    2300036: FD_Lamp tube007
+    2300038: FD_Lamp tube008
+    2300040: FD_Lamp tube009
+    2300042: FD_Lamp tube010
+    2300044: FD_Lamp tube011
+    2300046: FD_Lamp tube012
+    2300048: Wall_Top
+    3300000: FD_Lamp shade001
+    3300002: FD_Lamp shade002
+    3300004: FD_Lamp shade003
+    3300006: FD_Lamp shade004
+    3300008: FD_Lamp shade005
+    3300010: FD_Lamp shade006
+    3300012: FD_Lamp shade007
+    3300014: FD_Lamp shade008
+    3300016: FD_Lamp shade009
+    3300018: FD_Lamp shade010
+    3300020: FD_Lamp shade011
+    3300022: FD_Lamp shade012
+    3300024: FD_Lamp tube001
+    3300026: FD_Lamp tube002
+    3300028: FD_Lamp tube003
+    3300030: FD_Lamp tube004
+    3300032: FD_Lamp tube005
+    3300034: FD_Lamp tube006
+    3300036: FD_Lamp tube007
+    3300038: FD_Lamp tube008
+    3300040: FD_Lamp tube009
+    3300042: FD_Lamp tube010
+    3300044: FD_Lamp tube011
+    3300046: FD_Lamp tube012
+    3300048: Wall_Top
+    4300000: Wall_Top
+    4300002: FD_Lamp shade012
+    4300004: FD_Lamp tube012
+    4300006: FD_Lamp shade011
+    4300008: FD_Lamp tube011
+    4300010: FD_Lamp shade010
+    4300012: FD_Lamp tube010
+    4300014: FD_Lamp shade009
+    4300016: FD_Lamp tube009
+    4300018: FD_Lamp shade008
+    4300020: FD_Lamp tube008
+    4300022: FD_Lamp shade007
+    4300024: FD_Lamp tube007
+    4300026: FD_Lamp shade006
+    4300028: FD_Lamp tube006
+    4300030: FD_Lamp shade005
+    4300032: FD_Lamp tube005
+    4300034: FD_Lamp shade004
+    4300036: FD_Lamp tube004
+    4300038: FD_Lamp shade003
+    4300040: FD_Lamp tube003
+    4300042: FD_Lamp shade002
+    4300044: FD_Lamp tube002
+    4300046: FD_Lamp shade001
+    4300048: FD_Lamp tube001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

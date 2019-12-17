@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 8c6b1e42cce1e0241a83faf2bc5d3960
+timeCreated: 1568950758
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box056
+    100002: Box057
+    100004: Cylinder098
+    100006: Cylinder102
+    100008: Cylinder103
+    100010: Cylinder104
+    100012: //RootNode
+    100014: Shu kong_Air vent
+    100016: Shu kong_Air vent001
+    100018: Shu kong_Background
+    100020: Shu kong_Bulb01
+    100022: Shu kong_Bulb02
+    100024: Shu kong_Bulb03
+    100026: Shu kong_Bulb04
+    100028: Shu kong_Bulb05
+    100030: Shu kong_Bulb06
+    100032: Shu kong_Bulb07
+    100034: Shu kong_Bulb08
+    100036: Shu kong_Bulb09
+    100038: Shu kong_Bulb10
+    100040: Shu kong_Bulb11
+    100042: Shu kong_Bulb12
+    100044: Shu kong_Bulb13
+    100046: Shu kong_Bulb14
+    100048: Shu kong_Bulb15
+    100050: Shu kong_Bulb16
+    100052: Shu kong_Bulb17
+    100054: Shu kong_Bulb18
+    100056: Shu kong_Bulb19
+    100058: Shu kong_Bulb20
+    100060: Shu kong_Bulb21
+    100062: Shu kong_Bulb22
+    100064: Shu kong_Bulb23
+    100066: Shu kong_Bulb24
+    100068: Shu kong_Bulb25
+    100070: Shu kong_Bulb26
+    100072: Shu kong_Bulb27
+    100074: Shu kong_Bulb28
+    100076: Shu kong_Bulb29
+    100078: Shu kong_Bulb30
+    100080: Shu kong_Bulb31
+    100082: Shu kong_Bulb32
+    100084: Shu kong_Bulb33
+    100086: Shu kong_Bulb34
+    100088: Shu kong_Bulb35
+    100090: Shu kong_Bulb36
+    100092: Shu kong_Bulb37
+    100094: Shu kong_Bulb38
+    100096: Shu kong_Bulletin board
+    100098: Shu kong_Button(Green)
+    100100: Shu kong_Button(Red)
+    100102: Shu kong_Computer
+    100104: Shu kong_Computer Screen
+    100106: Shu kong_Console(Animation)
+    100108: Shu kong_Door
+    100110: Shu kong_Fill032
+    100112: Shu kong_Fill033
+    100114: Shu kong_Fill034
+    100116: Shu kong_Fill035
+    100118: Shu kong_Fill036
+    100120: Shu kong_Fill037
+    100122: Shu kong_Fill038
+    100124: Shu kong_Fill039
+    100126: Shu kong_Fill040
+    100128: Shu kong_Fill041
+    100130: Shu kong_Fill042
+    100132: Shu kong_Fill043
+    100134: Shu kong_Fill044
+    100136: Shu kong_Fill045
+    100138: Shu kong_Fill046
+    100140: Shu kong_Fill047
+    100142: Shu kong_Fill048
+    100144: Shu kong_Fill049
+    100146: Shu kong_Fill050
+    100148: Shu kong_Fill051
+    100150: Shu kong_Fill052
+    100152: Shu kong_Fill053
+    100154: Shu kong_Fill054
+    100156: Shu kong_Fill055
+    100158: Shu kong_Fill056
+    100160: Shu kong_Fill057
+    100162: Shu kong_Fill058
+    100164: Shu kong_Fill059
+    100166: Shu kong_Fill060
+    100168: Shu kong_Fill061
+    100170: Shu kong_Fill062
+    100172: Shu kong_Fill063
+    100174: Shu kong_Floor(Green)
+    100176: Shu kong_Foot line
+    100178: 'Shu kong_ge li dai '
+    100180: Shu kong_ge li dai _MeshPart0
+    100182: Shu kong_ge li dai _MeshPart1
+    100184: Shu kong_ge li dai _MeshPart2
+    100186: Shu kong_ge li dai _MeshPart3
+    100188: Shu kong_ge li dai _MeshPart4
+    100190: Shu kong_ge li dai _MeshPart5
+    100192: Shu kong_Gear001
+    100194: Shu kong_Glass
+    100196: Shu kong_Guardrail
+    100198: Shu kong_Handle010
+    100200: Shu kong_Keystroke023
+    100202: Shu kong_Keystroke024
+    100204: Shu kong_Lamp shade01
+    100206: Shu kong_Lamp shade02
+    100208: Shu kong_Lamp shade03
+    100210: Shu kong_Lamp shade04
+    100212: Shu kong_Lamp shade05
+    100214: Shu kong_Lamp shade06
+    100216: Shu kong_Lamp shade07
+    100218: Shu kong_Lamp shade08
+    100220: Shu kong_Lamp shade09
+    100222: Shu kong_Lamp shade10
+    100224: Shu kong_Lamp shade11
+    100226: Shu kong_Lamp shade12
+    100228: Shu kong_Lamp shade13
+    100230: Shu kong_Lamp shade14
+    100232: Shu kong_Lamp shade15
+    100234: Shu kong_Lamp shade16
+    100236: Shu kong_Lamp shade17
+    100238: Shu kong_Lamp shade18
+    100240: Shu kong_Lamp shade19
+    100242: Shu kong_Lamp shade20
+    100244: Shu kong_Lamp shade21
+    100246: Shu kong_Lamp shade22
+    100248: Shu kong_Lamp shade23
+    100250: Shu kong_Lamp shade24
+    100252: Shu kong_Lamp shade25
+    100254: Shu kong_Lamp shade26
+    100256: Shu kong_Lamp shade27
+    100258: Shu kong_Lamp shade28
+    100260: Shu kong_Lamp shade29
+    100262: Shu kong_Lamp shade30
+    100264: Shu kong_Lamp shade31
+    100266: Shu kong_Lamp shade32
+    100268: Shu kong_Lamp shade33
+    100270: Shu kong_Lamp shade34
+    100272: Shu kong_Lamp shade35
+    100274: Shu kong_Lamp shade36
+    100276: Shu kong_Lamp shade37
+    100278: Shu kong_Lamp shade38
+    100280: Shu kong_Lathe
+    100282: Shu kong_Lathe door001(Animation)
+    100284: Shu kong_Lathe door002(Animation)
+    100286: Shu kong_Lathe(Animation)
+    100288: Shu kong_Lathe_MeshPart0
+    100290: Shu kong_Lathe_MeshPart1
+    100292: Shu kong_Lathe_MeshPart10
+    100294: Shu kong_Lathe_MeshPart11
+    100296: Shu kong_Lathe_MeshPart12
+    100298: Shu kong_Lathe_MeshPart13
+    100300: Shu kong_Lathe_MeshPart14
+    100302: Shu kong_Lathe_MeshPart2
+    100304: Shu kong_Lathe_MeshPart3
+    100306: Shu kong_Lathe_MeshPart4
+    100308: Shu kong_Lathe_MeshPart5
+    100310: Shu kong_Lathe_MeshPart6
+    100312: Shu kong_Lathe_MeshPart7
+    100314: Shu kong_Lathe_MeshPart8
+    100316: Shu kong_Lathe_MeshPart9
+    100318: Shu kong_Materials
+    100320: Shu kong_Pillar
+    100322: Shu kong_Pipeline
+    100324: Shu kong_Scene
+    100326: Shu kong_Screen
+    100328: Shu kong_Table
+    100330: Shu kong_Top beam
+    100332: Shu kong_Wall
+    100334: Shu kong_Wall(Top)
+    100336: Shu kong_White line floor
+    100338: Shu kong_Window frame
+    100340: Shu kong_Lathe_MeshPart15
+    400000: Box056
+    400002: Box057
+    400004: Cylinder098
+    400006: Cylinder102
+    400008: Cylinder103
+    400010: Cylinder104
+    400012: //RootNode
+    400014: Shu kong_Air vent
+    400016: Shu kong_Air vent001
+    400018: Shu kong_Background
+    400020: Shu kong_Bulb01
+    400022: Shu kong_Bulb02
+    400024: Shu kong_Bulb03
+    400026: Shu kong_Bulb04
+    400028: Shu kong_Bulb05
+    400030: Shu kong_Bulb06
+    400032: Shu kong_Bulb07
+    400034: Shu kong_Bulb08
+    400036: Shu kong_Bulb09
+    400038: Shu kong_Bulb10
+    400040: Shu kong_Bulb11
+    400042: Shu kong_Bulb12
+    400044: Shu kong_Bulb13
+    400046: Shu kong_Bulb14
+    400048: Shu kong_Bulb15
+    400050: Shu kong_Bulb16
+    400052: Shu kong_Bulb17
+    400054: Shu kong_Bulb18
+    400056: Shu kong_Bulb19
+    400058: Shu kong_Bulb20
+    400060: Shu kong_Bulb21
+    400062: Shu kong_Bulb22
+    400064: Shu kong_Bulb23
+    400066: Shu kong_Bulb24
+    400068: Shu kong_Bulb25
+    400070: Shu kong_Bulb26
+    400072: Shu kong_Bulb27
+    400074: Shu kong_Bulb28
+    400076: Shu kong_Bulb29
+    400078: Shu kong_Bulb30
+    400080: Shu kong_Bulb31
+    400082: Shu kong_Bulb32
+    400084: Shu kong_Bulb33
+    400086: Shu kong_Bulb34
+    400088: Shu kong_Bulb35
+    400090: Shu kong_Bulb36
+    400092: Shu kong_Bulb37
+    400094: Shu kong_Bulb38
+    400096: Shu kong_Bulletin board
+    400098: Shu kong_Button(Green)
+    400100: Shu kong_Button(Red)
+    400102: Shu kong_Computer
+    400104: Shu kong_Computer Screen
+    400106: Shu kong_Console(Animation)
+    400108: Shu kong_Door
+    400110: Shu kong_Fill032
+    400112: Shu kong_Fill033
+    400114: Shu kong_Fill034
+    400116: Shu kong_Fill035
+    400118: Shu kong_Fill036
+    400120: Shu kong_Fill037
+    400122: Shu kong_Fill038
+    400124: Shu kong_Fill039
+    400126: Shu kong_Fill040
+    400128: Shu kong_Fill041
+    400130: Shu kong_Fill042
+    400132: Shu kong_Fill043
+    400134: Shu kong_Fill044
+    400136: Shu kong_Fill045
+    400138: Shu kong_Fill046
+    400140: Shu kong_Fill047
+    400142: Shu kong_Fill048
+    400144: Shu kong_Fill049
+    400146: Shu kong_Fill050
+    400148: Shu kong_Fill051
+    400150: Shu kong_Fill052
+    400152: Shu kong_Fill053
+    400154: Shu kong_Fill054
+    400156: Shu kong_Fill055
+    400158: Shu kong_Fill056
+    400160: Shu kong_Fill057
+    400162: Shu kong_Fill058
+    400164: Shu kong_Fill059
+    400166: Shu kong_Fill060
+    400168: Shu kong_Fill061
+    400170: Shu kong_Fill062
+    400172: Shu kong_Fill063
+    400174: Shu kong_Floor(Green)
+    400176: Shu kong_Foot line
+    400178: 'Shu kong_ge li dai '
+    400180: Shu kong_ge li dai _MeshPart0
+    400182: Shu kong_ge li dai _MeshPart1
+    400184: Shu kong_ge li dai _MeshPart2
+    400186: Shu kong_ge li dai _MeshPart3
+    400188: Shu kong_ge li dai _MeshPart4
+    400190: Shu kong_ge li dai _MeshPart5
+    400192: Shu kong_Gear001
+    400194: Shu kong_Glass
+    400196: Shu kong_Guardrail
+    400198: Shu kong_Handle010
+    400200: Shu kong_Keystroke023
+    400202: Shu kong_Keystroke024
+    400204: Shu kong_Lamp shade01
+    400206: Shu kong_Lamp shade02
+    400208: Shu kong_Lamp shade03
+    400210: Shu kong_Lamp shade04
+    400212: Shu kong_Lamp shade05
+    400214: Shu kong_Lamp shade06
+    400216: Shu kong_Lamp shade07
+    400218: Shu kong_Lamp shade08
+    400220: Shu kong_Lamp shade09
+    400222: Shu kong_Lamp shade10
+    400224: Shu kong_Lamp shade11
+    400226: Shu kong_Lamp shade12
+    400228: Shu kong_Lamp shade13
+    400230: Shu kong_Lamp shade14
+    400232: Shu kong_Lamp shade15
+    400234: Shu kong_Lamp shade16
+    400236: Shu kong_Lamp shade17
+    400238: Shu kong_Lamp shade18
+    400240: Shu kong_Lamp shade19
+    400242: Shu kong_Lamp shade20
+    400244: Shu kong_Lamp shade21
+    400246: Shu kong_Lamp shade22
+    400248: Shu kong_Lamp shade23
+    400250: Shu kong_Lamp shade24
+    400252: Shu kong_Lamp shade25
+    400254: Shu kong_Lamp shade26
+    400256: Shu kong_Lamp shade27
+    400258: Shu kong_Lamp shade28
+    400260: Shu kong_Lamp shade29
+    400262: Shu kong_Lamp shade30
+    400264: Shu kong_Lamp shade31
+    400266: Shu kong_Lamp shade32
+    400268: Shu kong_Lamp shade33
+    400270: Shu kong_Lamp shade34
+    400272: Shu kong_Lamp shade35
+    400274: Shu kong_Lamp shade36
+    400276: Shu kong_Lamp shade37
+    400278: Shu kong_Lamp shade38
+    400280: Shu kong_Lathe
+    400282: Shu kong_Lathe door001(Animation)
+    400284: Shu kong_Lathe door002(Animation)
+    400286: Shu kong_Lathe(Animation)
+    400288: Shu kong_Lathe_MeshPart0
+    400290: Shu kong_Lathe_MeshPart1
+    400292: Shu kong_Lathe_MeshPart10
+    400294: Shu kong_Lathe_MeshPart11
+    400296: Shu kong_Lathe_MeshPart12
+    400298: Shu kong_Lathe_MeshPart13
+    400300: Shu kong_Lathe_MeshPart14
+    400302: Shu kong_Lathe_MeshPart2
+    400304: Shu kong_Lathe_MeshPart3
+    400306: Shu kong_Lathe_MeshPart4
+    400308: Shu kong_Lathe_MeshPart5
+    400310: Shu kong_Lathe_MeshPart6
+    400312: Shu kong_Lathe_MeshPart7
+    400314: Shu kong_Lathe_MeshPart8
+    400316: Shu kong_Lathe_MeshPart9
+    400318: Shu kong_Materials
+    400320: Shu kong_Pillar
+    400322: Shu kong_Pipeline
+    400324: Shu kong_Scene
+    400326: Shu kong_Screen
+    400328: Shu kong_Table
+    400330: Shu kong_Top beam
+    400332: Shu kong_Wall
+    400334: Shu kong_Wall(Top)
+    400336: Shu kong_White line floor
+    400338: Shu kong_Window frame
+    400340: Shu kong_Lathe_MeshPart15
+    2300000: Box056
+    2300002: Box057
+    2300004: Cylinder098
+    2300006: Cylinder102
+    2300008: Cylinder103
+    2300010: Cylinder104
+    2300012: Shu kong_Air vent
+    2300014: Shu kong_Air vent001
+    2300016: Shu kong_Background
+    2300018: Shu kong_Bulb01
+    2300020: Shu kong_Bulb02
+    2300022: Shu kong_Bulb03
+    2300024: Shu kong_Bulb04
+    2300026: Shu kong_Bulb05
+    2300028: Shu kong_Bulb06
+    2300030: Shu kong_Bulb07
+    2300032: Shu kong_Bulb08
+    2300034: Shu kong_Bulb09
+    2300036: Shu kong_Bulb10
+    2300038: Shu kong_Bulb11
+    2300040: Shu kong_Bulb12
+    2300042: Shu kong_Bulb13
+    2300044: Shu kong_Bulb14
+    2300046: Shu kong_Bulb15
+    2300048: Shu kong_Bulb16
+    2300050: Shu kong_Bulb17
+    2300052: Shu kong_Bulb18
+    2300054: Shu kong_Bulb19
+    2300056: Shu kong_Bulb20
+    2300058: Shu kong_Bulb21
+    2300060: Shu kong_Bulb22
+    2300062: Shu kong_Bulb23
+    2300064: Shu kong_Bulb24
+    2300066: Shu kong_Bulb25
+    2300068: Shu kong_Bulb26
+    2300070: Shu kong_Bulb27
+    2300072: Shu kong_Bulb28
+    2300074: Shu kong_Bulb29
+    2300076: Shu kong_Bulb30
+    2300078: Shu kong_Bulb31
+    2300080: Shu kong_Bulb32
+    2300082: Shu kong_Bulb33
+    2300084: Shu kong_Bulb34
+    2300086: Shu kong_Bulb35
+    2300088: Shu kong_Bulb36
+    2300090: Shu kong_Bulb37
+    2300092: Shu kong_Bulb38
+    2300094: Shu kong_Bulletin board
+    2300096: Shu kong_Button(Green)
+    2300098: Shu kong_Button(Red)
+    2300100: Shu kong_Computer
+    2300102: Shu kong_Computer Screen
+    2300104: Shu kong_Console(Animation)
+    2300106: Shu kong_Door
+    2300108: Shu kong_Fill032
+    2300110: Shu kong_Fill033
+    2300112: Shu kong_Fill034
+    2300114: Shu kong_Fill035
+    2300116: Shu kong_Fill036
+    2300118: Shu kong_Fill037
+    2300120: Shu kong_Fill038
+    2300122: Shu kong_Fill039
+    2300124: Shu kong_Fill040
+    2300126: Shu kong_Fill041
+    2300128: Shu kong_Fill042
+    2300130: Shu kong_Fill043
+    2300132: Shu kong_Fill044
+    2300134: Shu kong_Fill045
+    2300136: Shu kong_Fill046
+    2300138: Shu kong_Fill047
+    2300140: Shu kong_Fill048
+    2300142: Shu kong_Fill049
+    2300144: Shu kong_Fill050
+    2300146: Shu kong_Fill051
+    2300148: Shu kong_Fill052
+    2300150: Shu kong_Fill053
+    2300152: Shu kong_Fill054
+    2300154: Shu kong_Fill055
+    2300156: Shu kong_Fill056
+    2300158: Shu kong_Fill057
+    2300160: Shu kong_Fill058
+    2300162: Shu kong_Fill059
+    2300164: Shu kong_Fill060
+    2300166: Shu kong_Fill061
+    2300168: Shu kong_Fill062
+    2300170: Shu kong_Fill063
+    2300172: Shu kong_Floor(Green)
+    2300174: Shu kong_Foot line
+    2300176: Shu kong_ge li dai _MeshPart0
+    2300178: Shu kong_ge li dai _MeshPart1
+    2300180: Shu kong_ge li dai _MeshPart2
+    2300182: Shu kong_ge li dai _MeshPart3
+    2300184: Shu kong_ge li dai _MeshPart4
+    2300186: Shu kong_ge li dai _MeshPart5
+    2300188: Shu kong_Gear001
+    2300190: Shu kong_Glass
+    2300192: Shu kong_Guardrail
+    2300194: Shu kong_Handle010
+    2300196: Shu kong_Keystroke023
+    2300198: Shu kong_Keystroke024
+    2300200: Shu kong_Lamp shade01
+    2300202: Shu kong_Lamp shade02
+    2300204: Shu kong_Lamp shade03
+    2300206: Shu kong_Lamp shade04
+    2300208: Shu kong_Lamp shade05
+    2300210: Shu kong_Lamp shade06
+    2300212: Shu kong_Lamp shade07
+    2300214: Shu kong_Lamp shade08
+    2300216: Shu kong_Lamp shade09
+    2300218: Shu kong_Lamp shade10
+    2300220: Shu kong_Lamp shade11
+    2300222: Shu kong_Lamp shade12
+    2300224: Shu kong_Lamp shade13
+    2300226: Shu kong_Lamp shade14
+    2300228: Shu kong_Lamp shade15
+    2300230: Shu kong_Lamp shade16
+    2300232: Shu kong_Lamp shade17
+    2300234: Shu kong_Lamp shade18
+    2300236: Shu kong_Lamp shade19
+    2300238: Shu kong_Lamp shade20
+    2300240: Shu kong_Lamp shade21
+    2300242: Shu kong_Lamp shade22
+    2300244: Shu kong_Lamp shade23
+    2300246: Shu kong_Lamp shade24
+    2300248: Shu kong_Lamp shade25
+    2300250: Shu kong_Lamp shade26
+    2300252: Shu kong_Lamp shade27
+    2300254: Shu kong_Lamp shade28
+    2300256: Shu kong_Lamp shade29
+    2300258: Shu kong_Lamp shade30
+    2300260: Shu kong_Lamp shade31
+    2300262: Shu kong_Lamp shade32
+    2300264: Shu kong_Lamp shade33
+    2300266: Shu kong_Lamp shade34
+    2300268: Shu kong_Lamp shade35
+    2300270: Shu kong_Lamp shade36
+    2300272: Shu kong_Lamp shade37
+    2300274: Shu kong_Lamp shade38
+    2300276: Shu kong_Lathe door001(Animation)
+    2300278: Shu kong_Lathe door002(Animation)
+    2300280: Shu kong_Lathe(Animation)
+    2300282: Shu kong_Lathe_MeshPart0
+    2300284: Shu kong_Lathe_MeshPart1
+    2300286: Shu kong_Lathe_MeshPart10
+    2300288: Shu kong_Lathe_MeshPart11
+    2300290: Shu kong_Lathe_MeshPart12
+    2300292: Shu kong_Lathe_MeshPart13
+    2300294: Shu kong_Lathe_MeshPart14
+    2300296: Shu kong_Lathe_MeshPart2
+    2300298: Shu kong_Lathe_MeshPart3
+    2300300: Shu kong_Lathe_MeshPart4
+    2300302: Shu kong_Lathe_MeshPart5
+    2300304: Shu kong_Lathe_MeshPart6
+    2300306: Shu kong_Lathe_MeshPart7
+    2300308: Shu kong_Lathe_MeshPart8
+    2300310: Shu kong_Lathe_MeshPart9
+    2300312: Shu kong_Materials
+    2300314: Shu kong_Pillar
+    2300316: Shu kong_Pipeline
+    2300318: Shu kong_Scene
+    2300320: Shu kong_Screen
+    2300322: Shu kong_Table
+    2300324: Shu kong_Top beam
+    2300326: Shu kong_Wall
+    2300328: Shu kong_Wall(Top)
+    2300330: Shu kong_White line floor
+    2300332: Shu kong_Window frame
+    2300334: Shu kong_Lathe_MeshPart15
+    3300000: Box056
+    3300002: Box057
+    3300004: Cylinder098
+    3300006: Cylinder102
+    3300008: Cylinder103
+    3300010: Cylinder104
+    3300012: Shu kong_Air vent
+    3300014: Shu kong_Air vent001
+    3300016: Shu kong_Background
+    3300018: Shu kong_Bulb01
+    3300020: Shu kong_Bulb02
+    3300022: Shu kong_Bulb03
+    3300024: Shu kong_Bulb04
+    3300026: Shu kong_Bulb05
+    3300028: Shu kong_Bulb06
+    3300030: Shu kong_Bulb07
+    3300032: Shu kong_Bulb08
+    3300034: Shu kong_Bulb09
+    3300036: Shu kong_Bulb10
+    3300038: Shu kong_Bulb11
+    3300040: Shu kong_Bulb12
+    3300042: Shu kong_Bulb13
+    3300044: Shu kong_Bulb14
+    3300046: Shu kong_Bulb15
+    3300048: Shu kong_Bulb16
+    3300050: Shu kong_Bulb17
+    3300052: Shu kong_Bulb18
+    3300054: Shu kong_Bulb19
+    3300056: Shu kong_Bulb20
+    3300058: Shu kong_Bulb21
+    3300060: Shu kong_Bulb22
+    3300062: Shu kong_Bulb23
+    3300064: Shu kong_Bulb24
+    3300066: Shu kong_Bulb25
+    3300068: Shu kong_Bulb26
+    3300070: Shu kong_Bulb27
+    3300072: Shu kong_Bulb28
+    3300074: Shu kong_Bulb29
+    3300076: Shu kong_Bulb30
+    3300078: Shu kong_Bulb31
+    3300080: Shu kong_Bulb32
+    3300082: Shu kong_Bulb33
+    3300084: Shu kong_Bulb34
+    3300086: Shu kong_Bulb35
+    3300088: Shu kong_Bulb36
+    3300090: Shu kong_Bulb37
+    3300092: Shu kong_Bulb38
+    3300094: Shu kong_Bulletin board
+    3300096: Shu kong_Button(Green)
+    3300098: Shu kong_Button(Red)
+    3300100: Shu kong_Computer
+    3300102: Shu kong_Computer Screen
+    3300104: Shu kong_Console(Animation)
+    3300106: Shu kong_Door
+    3300108: Shu kong_Fill032
+    3300110: Shu kong_Fill033
+    3300112: Shu kong_Fill034
+    3300114: Shu kong_Fill035
+    3300116: Shu kong_Fill036
+    3300118: Shu kong_Fill037
+    3300120: Shu kong_Fill038
+    3300122: Shu kong_Fill039
+    3300124: Shu kong_Fill040
+    3300126: Shu kong_Fill041
+    3300128: Shu kong_Fill042
+    3300130: Shu kong_Fill043
+    3300132: Shu kong_Fill044
+    3300134: Shu kong_Fill045
+    3300136: Shu kong_Fill046
+    3300138: Shu kong_Fill047
+    3300140: Shu kong_Fill048
+    3300142: Shu kong_Fill049
+    3300144: Shu kong_Fill050
+    3300146: Shu kong_Fill051
+    3300148: Shu kong_Fill052
+    3300150: Shu kong_Fill053
+    3300152: Shu kong_Fill054
+    3300154: Shu kong_Fill055
+    3300156: Shu kong_Fill056
+    3300158: Shu kong_Fill057
+    3300160: Shu kong_Fill058
+    3300162: Shu kong_Fill059
+    3300164: Shu kong_Fill060
+    3300166: Shu kong_Fill061
+    3300168: Shu kong_Fill062
+    3300170: Shu kong_Fill063
+    3300172: Shu kong_Floor(Green)
+    3300174: Shu kong_Foot line
+    3300176: Shu kong_ge li dai _MeshPart0
+    3300178: Shu kong_ge li dai _MeshPart1
+    3300180: Shu kong_ge li dai _MeshPart2
+    3300182: Shu kong_ge li dai _MeshPart3
+    3300184: Shu kong_ge li dai _MeshPart4
+    3300186: Shu kong_ge li dai _MeshPart5
+    3300188: Shu kong_Gear001
+    3300190: Shu kong_Glass
+    3300192: Shu kong_Guardrail
+    3300194: Shu kong_Handle010
+    3300196: Shu kong_Keystroke023
+    3300198: Shu kong_Keystroke024
+    3300200: Shu kong_Lamp shade01
+    3300202: Shu kong_Lamp shade02
+    3300204: Shu kong_Lamp shade03
+    3300206: Shu kong_Lamp shade04
+    3300208: Shu kong_Lamp shade05
+    3300210: Shu kong_Lamp shade06
+    3300212: Shu kong_Lamp shade07
+    3300214: Shu kong_Lamp shade08
+    3300216: Shu kong_Lamp shade09
+    3300218: Shu kong_Lamp shade10
+    3300220: Shu kong_Lamp shade11
+    3300222: Shu kong_Lamp shade12
+    3300224: Shu kong_Lamp shade13
+    3300226: Shu kong_Lamp shade14
+    3300228: Shu kong_Lamp shade15
+    3300230: Shu kong_Lamp shade16
+    3300232: Shu kong_Lamp shade17
+    3300234: Shu kong_Lamp shade18
+    3300236: Shu kong_Lamp shade19
+    3300238: Shu kong_Lamp shade20
+    3300240: Shu kong_Lamp shade21
+    3300242: Shu kong_Lamp shade22
+    3300244: Shu kong_Lamp shade23
+    3300246: Shu kong_Lamp shade24
+    3300248: Shu kong_Lamp shade25
+    3300250: Shu kong_Lamp shade26
+    3300252: Shu kong_Lamp shade27
+    3300254: Shu kong_Lamp shade28
+    3300256: Shu kong_Lamp shade29
+    3300258: Shu kong_Lamp shade30
+    3300260: Shu kong_Lamp shade31
+    3300262: Shu kong_Lamp shade32
+    3300264: Shu kong_Lamp shade33
+    3300266: Shu kong_Lamp shade34
+    3300268: Shu kong_Lamp shade35
+    3300270: Shu kong_Lamp shade36
+    3300272: Shu kong_Lamp shade37
+    3300274: Shu kong_Lamp shade38
+    3300276: Shu kong_Lathe door001(Animation)
+    3300278: Shu kong_Lathe door002(Animation)
+    3300280: Shu kong_Lathe(Animation)
+    3300282: Shu kong_Lathe_MeshPart0
+    3300284: Shu kong_Lathe_MeshPart1
+    3300286: Shu kong_Lathe_MeshPart10
+    3300288: Shu kong_Lathe_MeshPart11
+    3300290: Shu kong_Lathe_MeshPart12
+    3300292: Shu kong_Lathe_MeshPart13
+    3300294: Shu kong_Lathe_MeshPart14
+    3300296: Shu kong_Lathe_MeshPart2
+    3300298: Shu kong_Lathe_MeshPart3
+    3300300: Shu kong_Lathe_MeshPart4
+    3300302: Shu kong_Lathe_MeshPart5
+    3300304: Shu kong_Lathe_MeshPart6
+    3300306: Shu kong_Lathe_MeshPart7
+    3300308: Shu kong_Lathe_MeshPart8
+    3300310: Shu kong_Lathe_MeshPart9
+    3300312: Shu kong_Materials
+    3300314: Shu kong_Pillar
+    3300316: Shu kong_Pipeline
+    3300318: Shu kong_Scene
+    3300320: Shu kong_Screen
+    3300322: Shu kong_Table
+    3300324: Shu kong_Top beam
+    3300326: Shu kong_Wall
+    3300328: Shu kong_Wall(Top)
+    3300330: Shu kong_White line floor
+    3300332: Shu kong_Window frame
+    3300334: Shu kong_Lathe_MeshPart15
+    4300000: Shu kong_Scene
+    4300002: Shu kong_Top beam
+    4300004: Shu kong_Wall
+    4300006: Shu kong_Wall(Top)
+    4300008: Shu kong_Bulletin board
+    4300010: Shu kong_White line floor
+    4300012: Shu kong_Window frame
+    4300014: Shu kong_Glass
+    4300016: Shu kong_Lamp shade01
+    4300018: Shu kong_Bulb01
+    4300020: Shu kong_Lamp shade02
+    4300022: Shu kong_Bulb02
+    4300024: Shu kong_Lamp shade03
+    4300026: Shu kong_Bulb03
+    4300028: Shu kong_Lamp shade04
+    4300030: Shu kong_Bulb04
+    4300032: Shu kong_Lamp shade05
+    4300034: Shu kong_Bulb05
+    4300036: Shu kong_Lamp shade06
+    4300038: Shu kong_Bulb06
+    4300040: Shu kong_Lamp shade07
+    4300042: Shu kong_Bulb07
+    4300044: Shu kong_Lamp shade08
+    4300046: Shu kong_Bulb08
+    4300048: Shu kong_Lamp shade09
+    4300050: Shu kong_Bulb09
+    4300052: Shu kong_Lamp shade10
+    4300054: Shu kong_Bulb10
+    4300056: Shu kong_Lamp shade11
+    4300058: Shu kong_Bulb11
+    4300060: Shu kong_Lamp shade12
+    4300062: Shu kong_Bulb12
+    4300064: Shu kong_Lamp shade13
+    4300066: Shu kong_Bulb13
+    4300068: Shu kong_Lamp shade14
+    4300070: Shu kong_Bulb14
+    4300072: Shu kong_Lamp shade15
+    4300074: Shu kong_Bulb15
+    4300076: Shu kong_Lamp shade16
+    4300078: Shu kong_Bulb16
+    4300080: Shu kong_Lamp shade17
+    4300082: Shu kong_Bulb17
+    4300084: Shu kong_Lamp shade18
+    4300086: Shu kong_Bulb18
+    4300088: Shu kong_Lamp shade19
+    4300090: Shu kong_Bulb19
+    4300092: Shu kong_Lamp shade20
+    4300094: Shu kong_Bulb20
+    4300096: Shu kong_Lamp shade21
+    4300098: Shu kong_Bulb21
+    4300100: Shu kong_Lamp shade22
+    4300102: Shu kong_Bulb22
+    4300104: Shu kong_Lamp shade23
+    4300106: Shu kong_Bulb23
+    4300108: Shu kong_Lamp shade24
+    4300110: Shu kong_Bulb24
+    4300112: Shu kong_Lamp shade25
+    4300114: Shu kong_Bulb25
+    4300116: Shu kong_Lamp shade26
+    4300118: Shu kong_Bulb26
+    4300120: Shu kong_Lamp shade27
+    4300122: Shu kong_Bulb27
+    4300124: Shu kong_Lamp shade28
+    4300126: Shu kong_Bulb28
+    4300128: Shu kong_Lamp shade29
+    4300130: Shu kong_Bulb29
+    4300132: Shu kong_Lamp shade30
+    4300134: Shu kong_Bulb30
+    4300136: Shu kong_Lamp shade31
+    4300138: Shu kong_Bulb31
+    4300140: Shu kong_Lamp shade32
+    4300142: Shu kong_Bulb32
+    4300144: Shu kong_Lamp shade33
+    4300146: Shu kong_Bulb33
+    4300148: Shu kong_Lamp shade34
+    4300150: Shu kong_Bulb34
+    4300152: Shu kong_Lamp shade35
+    4300154: Shu kong_Bulb35
+    4300156: Shu kong_Lamp shade36
+    4300158: Shu kong_Bulb36
+    4300160: Shu kong_Lamp shade37
+    4300162: Shu kong_Bulb37
+    4300164: Shu kong_Lamp shade38
+    4300166: Shu kong_Bulb38
+    4300168: Shu kong_Air vent
+    4300170: Shu kong_Door
+    4300172: Shu kong_Floor(Green)
+    4300174: Shu kong_Foot line
+    4300176: Shu kong_ge li dai _MeshPart0
+    4300178: Shu kong_ge li dai _MeshPart1
+    4300180: Shu kong_ge li dai _MeshPart2
+    4300182: Shu kong_ge li dai _MeshPart3
+    4300184: Shu kong_ge li dai _MeshPart4
+    4300186: Shu kong_ge li dai _MeshPart5
+    4300188: Shu kong_Guardrail
+    4300190: Shu kong_Lathe_MeshPart0
+    4300192: Shu kong_Lathe_MeshPart1
+    4300194: Shu kong_Lathe_MeshPart2
+    4300196: Shu kong_Lathe_MeshPart3
+    4300198: Shu kong_Lathe_MeshPart4
+    4300200: Shu kong_Lathe_MeshPart5
+    4300202: Shu kong_Lathe_MeshPart6
+    4300204: Shu kong_Lathe_MeshPart7
+    4300206: Shu kong_Lathe_MeshPart8
+    4300208: Shu kong_Lathe_MeshPart9
+    4300210: Shu kong_Lathe_MeshPart10
+    4300212: Shu kong_Lathe_MeshPart11
+    4300214: Shu kong_Lathe_MeshPart12
+    4300216: Shu kong_Lathe_MeshPart13
+    4300218: Shu kong_Lathe_MeshPart14
+    4300220: Shu kong_Lathe(Animation)
+    4300222: Shu kong_Console(Animation)
+    4300224: Shu kong_Button(Green)
+    4300226: Shu kong_Handle010
+    4300228: Shu kong_Button(Red)
+    4300230: Shu kong_Keystroke023
+    4300232: Shu kong_Screen
+    4300234: Shu kong_Keystroke024
+    4300236: Box056
+    4300238: Box057
+    4300240: Shu kong_Lathe door002(Animation)
+    4300242: Shu kong_Lathe door001(Animation)
+    4300244: Cylinder098
+    4300246: Shu kong_Table
+    4300248: Shu kong_Computer
+    4300250: Shu kong_Computer Screen
+    4300252: Cylinder102
+    4300254: Cylinder103
+    4300256: Cylinder104
+    4300258: Shu kong_Pillar
+    4300260: Shu kong_Pipeline
+    4300262: Shu kong_Air vent001
+    4300264: Shu kong_Background
+    4300266: Shu kong_Fill032
+    4300268: Shu kong_Fill033
+    4300270: Shu kong_Gear001
+    4300272: Shu kong_Fill034
+    4300274: Shu kong_Fill035
+    4300276: Shu kong_Fill036
+    4300278: Shu kong_Fill037
+    4300280: Shu kong_Fill038
+    4300282: Shu kong_Fill039
+    4300284: Shu kong_Fill040
+    4300286: Shu kong_Fill041
+    4300288: Shu kong_Fill042
+    4300290: Shu kong_Fill043
+    4300292: Shu kong_Fill044
+    4300294: Shu kong_Fill045
+    4300296: Shu kong_Fill046
+    4300298: Shu kong_Fill047
+    4300300: Shu kong_Fill048
+    4300302: Shu kong_Fill049
+    4300304: Shu kong_Fill050
+    4300306: Shu kong_Fill051
+    4300308: Shu kong_Fill052
+    4300310: Shu kong_Fill053
+    4300312: Shu kong_Fill054
+    4300314: Shu kong_Fill055
+    4300316: Shu kong_Fill056
+    4300318: Shu kong_Fill057
+    4300320: Shu kong_Fill058
+    4300322: Shu kong_Fill059
+    4300324: Shu kong_Fill060
+    4300326: Shu kong_Fill061
+    4300328: Shu kong_Fill062
+    4300330: Shu kong_Fill063
+    4300332: Shu kong_Materials
+    4300334: Shu kong_Lathe_MeshPart15
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
