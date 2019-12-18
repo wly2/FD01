@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC4911A0-A4F2-7CF6-F6CA-9669001C8C54}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectGenerator>VSTU</UnityProjectGenerator>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>WebGL:20</UnityBuildTarget>
+    <UnityVersion>2017.1.1f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_1;UNITY_2017_1;UNITY_2017;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;PLATFORM_WEBGL;UNITY_WEBGL;UNITY_WEBGL_API;UNITY_DISABLE_WEB_VERIFICATION;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VR;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_1_1;UNITY_2017_1;UNITY_2017;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;ENABLE_SPRITE_MASKING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_VIDEO;ENABLE_RMGUI;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_STYLE_SHEETS;PLATFORM_WEBGL;UNITY_WEBGL;UNITY_WEBGL_API;UNITY_DISABLE_WEB_VERIFICATION;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VR;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;UNITY_PRO_LICENSE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEditor">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Timeline">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>D:/program files/Unity/Unity2017.1.1f/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Program_FD.Plugins.csproj">
+      <Project>{FAEBB188-2A2C-575C-C178-E244C3B6FB12}</Project>
+      <Name>Program_FD.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Camera\FD\CameraFirst.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Camera\FD\CameraLookAt.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Camera\FD\CameraSwitch.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Camera\FD\CameraThird.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Camera\Train\CameraLookAtTrain.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Control\FD\ControlAni.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Control\FD\ControlFDGame.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Control\FD\ControlStart.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Control\FD\ControlUI.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Control\Public\ControlModelOutLine.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Control\Train\ControlAniTrain.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Control\Train\ControlTrainGame.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\FD\ManagerCamera.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\FD\ManagerFDGame.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\FD\ManagerScene.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\FD\ManagerSound.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\FD\ManagerUI.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\Public\ManagerGame.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\Public\ManagerModel.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Manager\Train\ManagerTrainGame.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Model\FD\ModelCamera.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Model\FD\ModelLaser.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Model\FD\ModelRotate.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Model\FD\ModelShow.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Model\FD\ModelSwitch.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Model\Public\ModelOutLine.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Model\Train\ModelTrainSwitch.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Player\PlayerMove.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Resource\AniPlay.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Resource\ConfigPath.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Resource\MonoSingleton.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Resource\MouseEvent.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Resource\MouseEventTrain.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Resource\MyDebug.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Test\_test.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Test\test.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_Test\testS.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\FD\UIPanelFDAniVResult.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\FD\UIPanelFDCurVResult.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\FD\UIPanelFDImgVResult.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\FD\UIPanelTool.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelHelp.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelInputResult.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelLoading.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelModel.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelReport.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelSetting.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelStart.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIPanelVResult.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Public\UIWindow.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Train\UIPaneCurVResult.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Train\UIPanelImgVResult.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Train\UIPanelLoadingTrain.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Train\UIPanelReportTrain.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Train\UIPanelTipAngle.cs" />
+    <Compile Include="Assets\BuildOnlyAssets\Script\Script_UI\Train\UIPanelYuanliTrain.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+    <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
+    <Compile Include="Assets\LineEvent\Script\example.cs" />
+    <Compile Include="Assets\OutlineEffect\Demo\MaterialSwitcher.cs" />
+    <Compile Include="Assets\OutlineEffect\Demo\OutlineAnimation.cs" />
+    <Compile Include="Assets\OutlineEffect\Demo\Rotate.cs" />
+    <Compile Include="Assets\OutlineEffect\LinkedSet.cs" />
+    <Compile Include="Assets\OutlineEffect\Outline.cs" />
+    <Compile Include="Assets\OutlineEffect\OutlineEffect.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\BuildOnlyAssets\Textures\Skyboxes\_skybox info.txt" />
+    <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
+    <None Include="Assets\Demigiant\DOTween\Editor\DOTweenEditor.XML" />
+    <None Include="Assets\Demigiant\DOTween\readme.txt" />
+    <None Include="Assets\OutlineEffect\Resources\OutlineBufferShader.shader" />
+    <None Include="Assets\OutlineEffect\Resources\OutlineShader.shader" />
+    <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>
